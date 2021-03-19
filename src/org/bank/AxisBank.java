@@ -7,6 +7,15 @@ public class AxisBank extends BankInfo{
 		
 	}
 	
+	private void tco() {
+		// TODO Auto-generated method stub
+
+	}
+	private void tc1() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public static void main(String[] args) {
 		AxisBank v=new AxisBank();
 		v.deposit();
